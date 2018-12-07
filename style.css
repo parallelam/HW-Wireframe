@@ -22,7 +22,7 @@ nav {
 	margin-bottom: 10px;
 	border: 1px #ccc solid;
 }
-.container-2 {
+.container-1 {
 	text-align: center;
 	background: #ebebeb;
 	border: 1px #ccc solid;
@@ -32,7 +32,7 @@ nav {
 	width: 245px;
 	height: 250px;
 }
-.container-3 {
+.container-2 {
 	margin-top: 20px;
 	color: #ebebeb;
 	background: #777;
@@ -53,7 +53,7 @@ p {
 	text-align: center;
 	border: 1px #ccc solid;
 }
-.container-4 {
+.container-3 {
 	background: #ebebeb;
 	text-align: center;
 	border: 1px #ccc solid;
